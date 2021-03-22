@@ -1,2 +1,2 @@
 # BetrayalLauncher
-Launcher &amp; Auto-Updated for Betrayal (https://github.com/pclaycs/Betrayal)
+Launcher &amp; Auto-Updater for Betrayal (https://github.com/pclaycs/Betrayal)
